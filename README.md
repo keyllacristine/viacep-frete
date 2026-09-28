@@ -68,7 +68,7 @@ src/
 
 ## Link da aplicação publicada
 
-> 🔗 **[Adicione aqui o link da aplicação publicada]**
+> 🔗 (https://benevolent-nougat-a18fb0.netlify.app/)
 
 
 ## Informações sobre o uso de IA
